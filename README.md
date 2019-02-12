@@ -10,8 +10,10 @@ I'm busy studying chemistry and doing some experiments, so I may not have enough
 
 The problems below come from this online judge: [https://vijos.org/](https://vijos.org/)  
 Vijos P1052 (Guass elimination)  
-Vijos P1405 (String Transformation)  
+Vijos P1062 (Simulation, stack operation)  
+Vijos P1405 (String transformation)  
 Vijos P1406	(DFS & BFS)  
-Vijos P1407 (0-1 Knapsack problem)  
+Vijos P1407 (0-1 knapsack problem)  
+Vijos P1408 (DP, increasing subsequence, but not LIS)  
 Vijos P1524 (Maximum flow problem, Dinic's algorithm)  
 Vijos P1966 (Markov process, Guass elimination)  
